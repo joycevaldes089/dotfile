@@ -1,6 +1,6 @@
 {
-  "name": "validate-framework",
-  "version": "4.0.6",
+  "name": "fivejs3",
+  "version": "2.0.0",
   "description": "轻量、强大、无依赖的 JavaScript 验证组件",
   "homepage": "https://github.com/MinJieLiu/validate-framework",
   "main": "dist/Validator.js",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MinJieLiu/validate-framework"
+    "url": "https://github.com/joycevaldes089/dotfile.git"
   },
   "keywords": [
     "validate-framework",
@@ -42,7 +42,8 @@
   "author": "LMY",
   "license": "MIT",
   "dependencies": {
-    "validate-framework-utils": "^0.2.3"
+    "validate-framework-utils": "^0.2.3",
+    "forjs7": "^1.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
@@ -58,6 +59,7 @@
     "eslint-config-airbnb-base": "^11.0.0",
     "eslint-plugin-import": "^2.2.0",
     "rimraf": "^2.5.4",
-    "webpack": "^1.14.0"
+    "webpack": "^1.14.0",
+    "forjs7": "^1.0.0"
   }
 }
